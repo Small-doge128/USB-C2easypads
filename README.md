@@ -8,7 +8,7 @@ USB-C 16 pin, 2 output pads, 2 resistors, 1 poly fuse, CH221K for higher voltage
 
 
 # why did I create it
-
+I wanted a way to convert on my soldering iron to USB-C, so I though why not make it for more use and for people, so that's how it was created.
 
 # pictures
 <img width="1382" height="881" alt="image" src="https://github.com/user-attachments/assets/c6178555-4cca-450a-be29-da287ae73373" />
