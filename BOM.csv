@@ -1,4 +1,4 @@
-Name,Purpose,Qty,Unit Price (USD),Total (USD),Distributor,Link
+Name,Purpose,Qty,price (USD),Distributor,Link
 CH221K chip,for drawing more power from the USB-C,5,$ 1.65,LCSC,https://www.lcsc.com/product-detail/C5125736.html
 ESD diode,for protection and smoothing electrical bumps,10,$ 0.46,LCSC,https://www.lcsc.com/product-detail/C5128830.html
 polyfuse,for protecting all of the parts from high voltage,20,$ 0.58,LCSC,https://www.lcsc.com/product-detail/C70065.html
