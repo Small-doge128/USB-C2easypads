@@ -12,9 +12,9 @@ I wanted a way to convert my soldering iron to USB-C for better usability, so I 
 
 # pictures
 
-<img width="837" height="508" alt="image" src="https://github.com/user-attachments/assets/2ead738c-9dcd-4433-8e5b-38fdf8345dc2" />
-
 <img width="1261" height="879" alt="image" src="https://github.com/user-attachments/assets/f12188bb-0779-4ecc-a658-1339ba561b68" />
+
+<img width="837" height="508" alt="image" src="https://github.com/user-attachments/assets/2ead738c-9dcd-4433-8e5b-38fdf8345dc2" />
 
 <img width="1336" height="672" alt="image" src="https://github.com/user-attachments/assets/501f8f9d-9d52-4d8c-8041-6bdf380dabd8" />
 
