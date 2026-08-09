@@ -1,8 +1,8 @@
 Name,Purpose,Qty,Price (USD),Distributor,Link
 PCB with stencil,for conecting all of the parts,5,$ 5.27,JLCPCB,https://jlcpcb.com/
 CH221K chip,for drawing more power from the USB-C,5,$ 1.65,LCSC,https://www.lcsc.com/product-detail/C5125736.html
-ESD diode,for protection and smoothing electrical bumps,10,$ 0.46,LCSC,https://www.lcsc.com/product-detail/C5128830.html
-polyfuse,for protecting all of the parts from high voltage,20,$ 0.58,LCSC,https://www.lcsc.com/product-detail/C70065.html
+ESD diode,for protection and smoothing electrical bumps,10,$ 0.46,LCSC,https://www.lcsc.com/product-detail/C7018346.html
+polyfuse,for protecting all of the parts from high voltage,20,$ 0.58,LCSC,https://www.lcsc.com/product-detail/C42449089.html
 47kΩ resistor,for drawing the requested voltage,100,$ 1.31,LCSC,https://www.lcsc.com/product-detail/C17713.html
 1kΩ resistor,protection,100,already at home,LCSC,https://www.lcsc.com/product-detail/C84375.html
 5.1kΩ resistor,protection,200,already at home,LCSC,https://www.lcsc.com/product-detail/C95781.html
