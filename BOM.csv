@@ -1,5 +1,5 @@
 Name,Purpose,Qty,Price (USD),Distributor,Link
-PCB,for conecting all of the parts,5,$ 5.27,JLCPCB,https://pcbway.com
+PCB,for conecting all of the parts,5,$ 5,PCBWAY,https://pcbway.com
 CH221K chip,for drawing more power from the USB-C,5,$ 1.65,LCSC,https://www.lcsc.com/product-detail/C5125736.html
 TVS diode,for protection and smoothing electrical bumps,10,$ 0.06,LCSC,https://www.lcsc.com/product-detail/C7018346.html
 polyfuse,for protecting all of the parts from high voltage,20,$ 0.69,LCSC,https://www.lcsc.com/product-detail/C42449089.html
