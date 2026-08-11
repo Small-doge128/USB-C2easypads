@@ -22,5 +22,16 @@ I wanted a way to convert my soldering iron to USB-C for better usability, so I 
 
 # BOM
 
-
-
+| Name | Purpose | Qty | Price (USD) | Distributor | Link |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| PCB | for conecting all of the parts | 5 | $ 5 | PCBWAY | [Link](https://pcbway.com) |
+| CH221K chip | for drawing more power from the USB-C | 5 | $ 1.65 | LCSC | [Link](https://www.lcsc.com/product-detail/C5125736.html) |
+| TVS diode | for protection and smoothing electrical bumps | 10 | $ 0.06 | LCSC | [Link](https://www.lcsc.com/product-detail/C7018346.html) |
+| polyfuse | for protecting all of the parts from high voltage | 20 | $ 0.69 | LCSC | [Link](https://www.lcsc.com/product-detail/C42449089.html) |
+| 47kΩ resistor | for drawing the requested voltage | 100 | $ 1.31 | LCSC | [Link](https://www.lcsc.com/product-detail/C17713.html) |
+| 1kΩ resistor | protection | 100 | already at home | LCSC | [Link](https://www.lcsc.com/product-detail/C84375.html) |
+| 5.1kΩ resistor | protection | 200 | already at home | LCSC | [Link](https://www.lcsc.com/product-detail/C95781.html) |
+| 10uf capacitor | protection | 100 | already at home | LCSC | [Link](https://www.lcsc.com/product-detail/C13585.html) |
+| 100nf capacitor | protection | 100 | already at home | LCSC | [Link](https://www.lcsc.com/product-detail/C49678.html) |
+| **TOTAL without shipping and taxes** | | | **$ 8.71** | | |
+| **TOTAL with shipping and taxes** | | | **$ 43** | | |
