@@ -20,6 +20,7 @@ I wanted a way to convert my soldering iron to USB-C for better usability, so I 
 
 <img width="1184" height="676" alt="image" src="https://github.com/user-attachments/assets/249026ae-5c2d-4a4f-b372-2f6a4339eaeb" />
 
+# BOM
 
 
 
