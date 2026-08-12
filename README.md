@@ -1,8 +1,8 @@
 # About
-A really small, compact and simple USB-C PCB with 2 output pads and of course USB-C (16pin). It's for 12V (47k resistor), but if you want higher voltage, buy a different Rset resistor, TVS diode and fuse.
+A really small, compact and simple USB-C PCB with 2 output pads and of course USB-C (16pin). It's for 12V (47k resistor), but if you want higher voltage, buy a different Rset resistor, TVS diodes and fuse.
 
 # features
-USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 10uf capacitor and 100nf capacitor. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
+USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 10uf capacitor and 100nf capacitor. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse, TVS diodes and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
 
 # dimensions
 PCB - 22.75 mm x 10.75 mm
