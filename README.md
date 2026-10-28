@@ -1,4 +1,4 @@
-# About
+# about
 A really small, compact and simple USB-C PCB with 2 output pads and of course USB-C (16pin). It's for 12V (47k resistor), but if you want higher voltage, buy a different Rset resistor, TVS diodes and fuse.  [onshape](https://cad.onshape.com/documents/7232de9fd70225e34f9573ad/w/c2cc3483bf6da956bf569f6e/e/ac040c47bc44097746a4bcaa)
 
 # features
