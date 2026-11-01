@@ -10,7 +10,12 @@ PCB - 22.75 mm x 10.75 mm
 # why did I create it
 I wanted a way to convert my soldering iron to USB-C for better usability, so I thought why not make it for more use and for more people, so that's how it was created.
 
+# demo video:
+
+
 # pictures
+
+<img width="368" height="305" alt="Screenshot 2026-11-01 201359" src="https://github.com/user-attachments/assets/1413b983-9411-4c97-b5e4-8e4297a71e15" />
 
 <img width="1261" height="879" alt="image" src="https://github.com/user-attachments/assets/f12188bb-0779-4ecc-a658-1339ba561b68" />
 
