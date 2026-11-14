@@ -1,5 +1,5 @@
 # about
-A really small, compact and simple USB-C PCB with 2 output pads and of course USB-C (16pin). It's for 12V (47k resistor), but if you want higher voltage, buy a different Rset resistor, TVS diodes and fuse.  [onshape](https://cad.onshape.com/documents/7232de9fd70225e34f9573ad/w/c2cc3483bf6da956bf569f6e/e/ac040c47bc44097746a4bcaa)
+A really small, compact and simple USB-C PCB with 2 output pads and of course USB-C (16pin). It's for 12V (47k resistor), but if you want higher voltage, buy a different Rset resistor, TVS diodes and fuse. [onshape](https://cad.onshape.com/documents/7232de9fd70225e34f9573ad/w/c2cc3483bf6da956bf569f6e/e/ac040c47bc44097746a4bcaa)
 
 # features
 USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 10uf capacitor and 100nf capacitor. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse, TVS diodes and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
@@ -8,7 +8,7 @@ USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage
 PCB - 22.75 mm x 10.75 mm
 
 # why did I create it
-I wanted a way to convert my soldering iron to USB-C for better usability, so I thought why not make it for more use and for more people, so that's how it was created.
+I wanted a way to convert my soldering iron to USB-C for better usability, so I thought why not make it for more use and for more people, so that's how it was created. After building it I even added a XT60 connector for even better usability.
 
 # demo video:
 
@@ -21,6 +21,7 @@ I wanted a way to convert my soldering iron to USB-C for better usability, so I 
 
 <img width="1226" height="727" alt="image" src="https://github.com/user-attachments/assets/ba081022-f2e9-4e5a-bcca-b2597453d1db" />
 
+I even added a XT60 for it.
 <img width="4096" height="909" alt="Beeper_20261114_150407" src="https://github.com/user-attachments/assets/f21054c7-2322-4706-bce5-efe259e63a78" />
 
 <img width="3646" height="1181" alt="IMG_20261114_150017210" src="https://github.com/user-attachments/assets/900becb3-44d3-4aa0-802e-fc1767a93152" />
