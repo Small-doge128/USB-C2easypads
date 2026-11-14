@@ -4,10 +4,10 @@ CH221K chip,for drawing more power from the USB-C,5,$ 1.65,LCSC,https://www.lcsc
 TVS diode,for protection,10,$ 0.06,LCSC,https://www.lcsc.com/product-detail/C7018346.html
 polyfuse,for protecting all of the parts from over-current / short circuits,20,$ 0.69,LCSC,https://www.lcsc.com/product-detail/C5366195.html
 47kΩ resistor,for drawing the requested voltage,100,$ 1.31,LCSC,https://www.lcsc.com/product-detail/C17713.html
-1kΩ resistor,protection,100,already at home,LCSC,https://www.lcsc.com/product-detail/C84375.html
-5.1kΩ resistor,protection,200,already at home,LCSC,https://www.lcsc.com/product-detail/C95781.html
-10uf capacitor,protection,100,already at home,LCSC,https://www.lcsc.com/product-detail/C13585.html
-100nf capacitor,protection,100,already at home,LCSC,https://www.lcsc.com/product-detail/C49678.html
-USB-C receptacle (16 pin),to bring the power,5,already at home,LCSC,
+1kΩ resistor,protection (already at home),100,,LCSC,https://www.lcsc.com/product-detail/C84375.html
+5.1kΩ resistor,protection (already at home),200,,LCSC,https://www.lcsc.com/product-detail/C95781.html
+10uf capacitor,protection (already at home),100,,LCSC,https://www.lcsc.com/product-detail/C13585.html
+100nf capacitor,protection (already at home),100,,LCSC,https://www.lcsc.com/product-detail/C49678.html
+USB-C receptacle (16 pin (already at home)),to bring the power,5,,LCSC,
 TOTAL without shipping and taxes,,,$ 8.71,,
 TOTAL with shipping and taxes,,,$ 43,,
