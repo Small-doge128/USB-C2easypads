@@ -4,7 +4,7 @@ A really small, compact and simple USB-C PCB with 2 output pads and of course US
 ## Verified Real-World Testing
 - **5V Non-PD Fallback:** Outputs a steady 5V on standard legacy USB-A/USB-C bricks.
 - **12V USB-C PD Negotiation:** Reliably negotiates 12V on PD-capable chargers.
-- **Over-Current Load Test:** Tested on a variable electronic load/discharger—held steady up to **26W at 12
+- **Over-Current Load Test:** Tested on a variable electronic load/discharger—held steady up to **26W at 12V** (~2.17A), tripped the polyfuse right above that threshold, and recovered cleanly once cooled.
 
 # features
 USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 2 capacitors. **for more informations check my BOM**. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse, TVS diodes and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
