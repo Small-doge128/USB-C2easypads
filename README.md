@@ -7,7 +7,7 @@ A really small, compact and simple USB-C PCB with 2 output pads and of course US
 - **Over-Current Load Test:** Tested on a variable electronic load/discharger—held steady up to **26W at 12V** (~2.17A), tripped the polyfuse right above that threshold, and recovered cleanly once cooled.
 
 # features
-USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 2 capacitors. **for more informations check my BOM**. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse, TVS diodes and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
+USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 2 capacitors. **for more informations, check my BOM**. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse, TVS diodes and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
 
 # dimensions
 **PCB** - 22.75 mm x 10.75 mm
@@ -48,5 +48,6 @@ I even added a XT60 for it.
 | 5.1kΩ resistor | protection | 200 | already at home | LCSC | [Link](https://www.lcsc.com/product-detail/C95781.html) |
 | 10uf capacitor | protection | 100 | already at home | LCSC | [Link](https://www.lcsc.com/product-detail/C13585.html) |
 | 100nf capacitor | protection | 100 | already at home | LCSC | [Link](https://www.lcsc.com/product-detail/C49678.html) |
+| USB-C receptacle (16 pin)| to bring the power| 5 | already at home | LCSC | [Link]() |
 | **TOTAL without shipping and taxes** | | | **$ 8.71** | | |
 | **TOTAL with shipping and taxes** | | | **$ 43** | | |
