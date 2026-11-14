@@ -48,6 +48,6 @@ I even added a XT60 for it.
 | 5.1kΩ resistor | protection (already at home) | 200 | $  | LCSC | [Link](https://www.lcsc.com/product-detail/C95781.html) |
 | 10uf capacitor | protection (already at home) | 100 | $  | LCSC | [Link](https://www.lcsc.com/product-detail/C13585.html) |
 | 100nf capacitor | protection (already at home) | 100 | $  | LCSC | [Link](https://www.lcsc.com/product-detail/C49678.html) |
-| USB-C receptacle (16 pin) (already at home) | to bring the power| 5 | $  | LCSC | [Link]() |
+| USB-C receptacle (16 pin) | to bring the power (already at home)| 5 | $  | LCSC | [Link]() |
 | **TOTAL without shipping and taxes** | | | **$ 8.71** | | |
 | **TOTAL with shipping and taxes** | | | **$ 43** | | |
