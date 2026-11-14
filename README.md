@@ -7,13 +7,13 @@ A really small, compact and simple USB-C PCB with 2 output pads and of course US
 - **Over-Current Load Test:** Tested on a variable electronic load/discharger—held steady up to **26W at 12
 
 # features
-USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 2 capacitors. ***for more informations check my BOM***. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse, TVS diodes and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
+USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 2 capacitors. **for more informations check my BOM**. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse, TVS diodes and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
 
 # dimensions
 **PCB** - 22.75 mm x 10.75 mm
 
 # why did I create it
-I wanted a way to convert my soldering iron to USB-C for better usability, so I thought why not make it for more use and for more people, so that's how it was created. After building it I even added a XT60 connector for even better usability.
+I wanted a way to convert my soldering iron to USB-C for better usability, so I thought why not make it for more use and for more people, so that's how it was created. After building it I even added a *XT60 connector* for even better usability.
 
 # demo video:
 
