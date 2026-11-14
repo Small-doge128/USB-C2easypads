@@ -39,7 +39,7 @@ I even added a XT60 for it.
 
 | Name | Purpose | Qty | Price (USD) | Distributor | Link |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| PCB | for conecting all of the parts | 5 | $ 5 | PCBWAY | [Link](https://pcbway.com) |
+| PCB | for conecting all of the parts | 5 | $ 5 | JLCPCB | [Link](https://jlcpcb.com/) |
 | CH221K chip | for drawing more power from the USB-C | 5 | $ 1.65 | LCSC | [Link](https://www.lcsc.com/product-detail/C5125736.html) |
 | TVS diode | for protection | 10 | $ 0.06 | LCSC | [Link](https://www.lcsc.com/product-detail/C7018346.html) |
 | polyfuse | for protecting all of the parts from over-current / short circuits | 20 | $ 0.69 | LCSC | [Link](https://www.lcsc.com/product-detail/C42449089.html) |
@@ -48,6 +48,6 @@ I even added a XT60 for it.
 | 5.1kΩ resistor | protection (already at home) | 200 | $ 0.81 | LCSC | [Link](https://www.lcsc.com/product-detail/C95781.html) |
 | 10uf capacitor | protection (already at home) | 100 | $ 1.22 | LCSC | [Link](https://www.lcsc.com/product-detail/C13585.html) |
 | 100nf capacitor | protection (already at home) | 100 | $ 0.28 | LCSC | [Link](https://www.lcsc.com/product-detail/C49678.html) |
-| USB-C receptacle (16 pin) | to bring the power (already at home)| 5 | $  | LCSC | [Link]() |
-| **TOTAL without shipping and taxes** | | | **$ 8.71** | | |
-| **TOTAL with shipping and taxes** | | | **$ 43** | | |
+| USB-C receptacle (16 pin) | to bring the power (already at home)| 5 | $ 0.87 | LCSC | [Link](https://www.lcsc.com/product-detail/C165948.html) |
+| **TOTAL without shipping and taxes** | | | **$ 6.99** | | |
+| **TOTAL with shipping and taxes (in czechia)** | | | **$ 42.02** | | |
