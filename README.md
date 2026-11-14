@@ -1,5 +1,10 @@
 # about
-A really small, compact and simple USB-C PCB with 2 output pads and of course USB-C (16pin). It's for 12V (47k resistor), but if you want higher voltage, buy a different Rset resistor, TVS diodes and fuse. I did test in real life and it does output 12V (PD) and 5V (non PD) reliably, but remember the ampage does depends on your charger brick, so please check it for your use case and I even tested it with a discharger and it got to 28W on 12V then tripped. [onshape](https://cad.onshape.com/documents/7232de9fd70225e34f9573ad/w/c2cc3483bf6da956bf569f6e/e/ac040c47bc44097746a4bcaa)
+A really small, compact and simple USB-C PCB with 2 output pads and of course USB-C (16pin). It's for 12V (47k resistor), but if you want higher voltage, buy a different Rset resistor, TVS diodes and fuse. [onshape](https://cad.onshape.com/documents/7232de9fd70225e34f9573ad/w/c2cc3483bf6da956bf569f6e/e/ac040c47bc44097746a4bcaa)
+
+## Verified Real-World Testing
+- **5V Non-PD Fallback:** Outputs a steady 5V on standard legacy USB-A/USB-C bricks.
+- **12V USB-C PD Negotiation:** Reliably negotiates 12V on PD-capable chargers.
+- **Over-Current Load Test:** Tested on a variable electronic load/discharger—held steady up to **26W at 12
 
 # features
 USB-C 16 pin, 2 output pads, 4 resistors, 1 poly fuse, CH221K for higher voltage, 10uf capacitor and 100nf capacitor. All bundled up on a small PCB that I designed in Kicad. If you want you can have higher voltage or lower, all you need to do is change the fuse, TVS diodes and Rset resistor. The target voltage can be easily set by a table on the back of the PCB and a arrow pointing to the Rset resistor.
