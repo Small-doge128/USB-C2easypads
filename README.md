@@ -17,6 +17,7 @@ I wanted a way to convert my soldering iron to USB-C for better usability, so I 
 
 # demo video:
 
+https://github.com/user-attachments/assets/a16966e3-cbe7-4457-b4a4-8080b5831908
 
 # pictures
 
